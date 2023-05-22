@@ -1,0 +1,25 @@
+{"instruction": "Is this contaminated? 172 119 4.4 4.1 1.5 1.2 2.51 2.36", "input": "", "output": "No"}
+{"instruction": "Is this contaminated? 180 184 4.6 4.2 1.4 1.3 2.41 2.45", "input": "", "output": "No"}
+{"instruction": "Is this contaminated? 170 159 4.1 4.7 1.4 1.414 2.41 2.14", "input": "", "output": "Yes"}
+{"instruction": "Is this contaminated? 162 153 4.6 4.5 1.5 1.4 2.47 2.44", "input": "", "output": "No"}
+{"instruction": "Is this contaminated? 135 139 4.5 3.8 1.414 1.5 2.05 2.23", "input": "", "output": "Yes"}
+{"instruction": "Is this contaminated? 224 257 5.3 4.4 1.717 2 2.18 2.51", "input": "", "output": "Yes"}
+{"instruction": "Is this contaminated? 224 157 4.4 5.3 1.3 1.414 2.16 2", "input": "", "output": "Yes"}
+{"instruction": "Is this contaminated? 120 149 4.7 3.7 1.212 1.5 2.18 2.52", "input": "", "output": "Yes"}
+{"instruction": "Is this contaminated? 246 262 5.9 4.7 1.919 1.6 2.24 2.55 ", "input": "", "output": "Yes"}
+{"instruction": "Is this contaminated? 247 197 4.7 5.2 1.6 1.717 2.42 2.1", "input": "", "output": "Yes"}
+{"instruction": "Is this contaminated? 188 255 4.4 4.4 1.4 1.2 2.28 2.24", "input": "", "output": "No"}
+{"instruction": "Is this contaminated? 150 101 5.1 4.4 1.313 1.4 1.96 2.46", "input": "", "output": "Yes"}
+{"instruction": "Is this contaminated? 190 186 4.4 5.3 1.5 1.313 2.31 2.15", "input": "", "output": "Yes"}
+{"instruction": "Is this contaminated? 149 181 4.4 3.9 1.313 1.3 2.23 2.48", "input": "", "output": "Yes"}
+{"instruction": "Is this contaminated? 114 166 5.1 4.4 1.111 1.2 2.07 2.32", "input": "", "output": "Yes"}
+{"instruction": "Is this contaminated? 221 226 3.9 3.6 1.8 1.8 2.37 2.28", "input": "", "output": "No"}
+{"instruction": "Is this contaminated? 218 244 4.5 4.1 1.3 1.6 2.5 2.51", "input": "", "output": "No"}
+{"instruction": "Is this contaminated? 140 158 4.4 4.3 1.3 1.4 2.48 2.49", "input": "", "output": "No"}
+{"instruction": "Is this contaminated? 146 156 3.9 3.8 1.2 1.2 2.4 2.38", "input": "", "output": "No"}
+{"instruction": "Is this contaminated? 180 157 4 4.1 1 1.212 2.35 1.94", "input": "", "output": "Yes"}
+{"instruction": "Is this contaminated? 206 244 4.7 3.7 1.515 1.3 2.08 2.31", "input": "", "output": "Yes"}
+{"instruction": "Is this contaminated? 252 236 4.2 3.7 1.6 1.7 2.26 2.41", "input": "", "output": "No"}
+{"instruction": "Is this contaminated? 164 184 4.3 4.1 1.3 1.5 2.55 2.39", "input": "", "output": "No"}
+{"instruction": "Is this contaminated? 395 302 4.3 4.4 1.1 1.4 2.28 2.3", "input": "", "output": "No"}
+{"instruction": "Is this contaminated? 352 449 4.7 4.6 1.8 1.9 2.52 2.31", "input": "", "output": "No"}
