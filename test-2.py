@@ -17,5 +17,5 @@ model.eval()
 inputs = tokenizer("Is this contaminated? 172 119 4.4 4.1 1.5 1.2 2.51 2.36", return_tensors="pt")
 
 with torch.no_grad():
-    outputs = model.generate(input_ids=inputs["input_ids"].to("cuda"), attention_mask=inputs["attention_mask"].to("cuda"),max_new_tokens=10)
+    outputs = model.generate(input_ids=inputs["input_ids"].to("cuda"), attention_mask=inputs["attention_mask"].to("cuda"),max_new_tokens=400)
     print(tokenizer.batch_decode(outputs.detach().cpu().numpy(), skip_special_tokens=True)[0])

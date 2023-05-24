@@ -179,7 +179,7 @@ def load_data(config: TrainConfig) -> Tuple:
 def train(
     # model/data params
     base_model: str = "togethercomputer/RedPajama-INCITE-Base-7B-v0.1",  # the only required argument
-    data_path: str = "Finetune-test-2.json",
+    data_path: str = "dataset/data-test-2.json",
     output_dir: str = "./lora-alpaca",
     # training hyperparams
     batch_size: int = 128,
